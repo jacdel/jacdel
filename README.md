@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jackie!
+- 👀 I’m interested in games and web design 
+- 🌱 I’m currently enrolled in the Promineo Tech Front end coding bootcamp.
+- 📫 Reach me on: https://www.linkedin.com/in/jacqueline-delgado-l/
