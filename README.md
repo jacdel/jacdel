@@ -1,4 +1,4 @@
-<a><img src='https://i.postimg.cc/6pgLL7dm/banner-for-github.jpg' border='0' alt='banner-for-github'/></a
+<a><img src='https://i.postimg.cc/6pgLL7dm/banner-for-github.jpg' border='0' alt='banner-for-github'/></a>
 
 <br><b><center>currently learning</center></b></br>
 <br><b><center>Javascript</center></b></br>
